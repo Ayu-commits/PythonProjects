@@ -7,4 +7,4 @@ packages:
 
 to install:
     pip install imageio
-    pip install opencv-python
+    pip install OpenCV-python
